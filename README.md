@@ -6,3 +6,4 @@ Academic-related records related to my tenure at HyperionDev
 * [Teaching and Learning Journal](https://github.com/HenriBranken/AcademicPortfolio/blob/main/Henri%20Branken%20-%20Teaching%20and%20Learning%20Journal.pdf)
 * [Mentor Call Training - Part 1](https://github.com/HenriBranken/AcademicPortfolio/blob/main/Henri%20Branken%20-%20Mentor%20Call%20Training%20-%20Session%201%20Reflections.pdf)
 * [Mentor Call Training - Part 2](https://github.com/HenriBranken/AcademicPortfolio/blob/main/Henri%20Branken%20-%20Mentor%20Call%20Training%20-%20Session%202%20Reflections.pdf)
+* [EU GDPR & Safeguarding Training](https://github.com/HenriBranken/AcademicPortfolio/tree/main/Certification)
